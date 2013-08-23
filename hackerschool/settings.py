@@ -108,6 +108,7 @@ ROOT_URLCONF = 'hackerschool.urls'
 WSGI_APPLICATION = 'hackerschool.wsgi.application'
 
 TEMPLATE_DIRS = (
+    '/home/chin/dev/python-experiments/django/blog/hackerschool/templates'
     # Put strings here, like "/home/html/django_templates" or "C:/www/django/templates".
     # Always use forward slashes, even on Windows.
     # Don't forget to use absolute paths, not relative paths.
